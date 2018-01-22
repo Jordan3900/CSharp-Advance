@@ -1,0 +1,14 @@
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\05.HotPoteto\bin\Debug\05.HotPoteto.exe.config
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\05.HotPoteto\bin\Debug\05.HotPoteto.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\05.HotPoteto\bin\Debug\05.HotPoteto.pdb
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\05.HotPoteto\obj\Debug\05.HotPoteto.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\05.HotPoteto\obj\Debug\05.HotPoteto.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\05.HotPoteto\obj\Debug\05.HotPoteto.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\05.HotPoteto\obj\Debug\05.HotPoteto.pdb
+C:\Development\CSharp-Advance\Lab-StackAndQueue\05.HotPoteto\bin\Debug\05.HotPoteto.exe.config
+C:\Development\CSharp-Advance\Lab-StackAndQueue\05.HotPoteto\bin\Debug\05.HotPoteto.exe
+C:\Development\CSharp-Advance\Lab-StackAndQueue\05.HotPoteto\bin\Debug\05.HotPoteto.pdb
+C:\Development\CSharp-Advance\Lab-StackAndQueue\05.HotPoteto\obj\Debug\05.HotPoteto.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-Advance\Lab-StackAndQueue\05.HotPoteto\obj\Debug\05.HotPoteto.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\Lab-StackAndQueue\05.HotPoteto\obj\Debug\05.HotPoteto.exe
+C:\Development\CSharp-Advance\Lab-StackAndQueue\05.HotPoteto\obj\Debug\05.HotPoteto.pdb

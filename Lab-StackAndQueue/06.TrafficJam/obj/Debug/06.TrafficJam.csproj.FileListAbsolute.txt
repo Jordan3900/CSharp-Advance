@@ -1,0 +1,7 @@
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\06.TrafficJam\bin\Debug\06.TrafficJam.exe.config
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\06.TrafficJam\bin\Debug\06.TrafficJam.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\06.TrafficJam\bin\Debug\06.TrafficJam.pdb
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\06.TrafficJam\obj\Debug\06.TrafficJam.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\06.TrafficJam\obj\Debug\06.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\06.TrafficJam\obj\Debug\06.TrafficJam.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\06.TrafficJam\obj\Debug\06.TrafficJam.pdb

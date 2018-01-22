@@ -1,0 +1,7 @@
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\04.MatchingBreckets\bin\Debug\04.MatchingBreckets.exe.config
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\04.MatchingBreckets\bin\Debug\04.MatchingBreckets.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\04.MatchingBreckets\bin\Debug\04.MatchingBreckets.pdb
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\04.MatchingBreckets\obj\Debug\04.MatchingBreckets.csprojResolveAssemblyReference.cache
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\04.MatchingBreckets\obj\Debug\04.MatchingBreckets.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\04.MatchingBreckets\obj\Debug\04.MatchingBreckets.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\04.MatchingBreckets\obj\Debug\04.MatchingBreckets.pdb
