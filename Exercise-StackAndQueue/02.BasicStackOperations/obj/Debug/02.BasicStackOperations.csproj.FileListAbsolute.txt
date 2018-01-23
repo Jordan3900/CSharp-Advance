@@ -1,0 +1,7 @@
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe.config
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.pdb
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.pdb
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.csprojResolveAssemblyReference.cache

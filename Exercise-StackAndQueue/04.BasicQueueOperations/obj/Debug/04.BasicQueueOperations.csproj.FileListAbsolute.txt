@@ -1,0 +1,6 @@
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb

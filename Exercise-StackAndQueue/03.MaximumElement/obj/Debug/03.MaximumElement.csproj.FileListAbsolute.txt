@@ -1,0 +1,6 @@
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\03.MaximumElement\bin\Debug\03.MaximumElement.exe.config
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\03.MaximumElement\bin\Debug\03.MaximumElement.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\03.MaximumElement\bin\Debug\03.MaximumElement.pdb
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\03.MaximumElement\obj\Debug\03.MaximumElement.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\03.MaximumElement\obj\Debug\03.MaximumElement.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Exercise-StackAndQueue\03.MaximumElement\obj\Debug\03.MaximumElement.pdb
