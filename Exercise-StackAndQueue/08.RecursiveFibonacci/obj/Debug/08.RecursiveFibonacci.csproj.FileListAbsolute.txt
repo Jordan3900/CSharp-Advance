@@ -1,0 +1,7 @@
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.exe.config
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.exe
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\08.RecursiveFibonacci\bin\Debug\08.RecursiveFibonacci.pdb
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.exe
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\08.RecursiveFibonacci\obj\Debug\08.RecursiveFibonacci.pdb
