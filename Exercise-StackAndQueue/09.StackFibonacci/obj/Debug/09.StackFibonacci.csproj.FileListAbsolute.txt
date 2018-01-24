@@ -1,0 +1,7 @@
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\09.StackFibonacci\bin\Debug\09.StackFibonacci.exe.config
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\09.StackFibonacci\bin\Debug\09.StackFibonacci.exe
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\09.StackFibonacci\bin\Debug\09.StackFibonacci.pdb
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\09.StackFibonacci\obj\Debug\09.StackFibonacci.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\09.StackFibonacci\obj\Debug\09.StackFibonacci.exe
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\09.StackFibonacci\obj\Debug\09.StackFibonacci.pdb
+C:\Development\CSharp-Advance\Exercise-StackAndQueue\09.StackFibonacci\obj\Debug\09.StackFibonacci.csprojResolveAssemblyReference.cache
