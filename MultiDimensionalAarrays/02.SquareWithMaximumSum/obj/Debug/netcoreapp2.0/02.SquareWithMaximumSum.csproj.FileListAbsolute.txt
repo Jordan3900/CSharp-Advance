@@ -1,0 +1,11 @@
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\bin\Debug\netcoreapp2.0\02.SquareWithMaximumSum.deps.json
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\bin\Debug\netcoreapp2.0\02.SquareWithMaximumSum.runtimeconfig.json
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\bin\Debug\netcoreapp2.0\02.SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\bin\Debug\netcoreapp2.0\02.SquareWithMaximumSum.dll
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\bin\Debug\netcoreapp2.0\02.SquareWithMaximumSum.pdb
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\02.SquareWithMaximumSum.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\02.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\02.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\02.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\02.SquareWithMaximumSum.dll
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\02.SquareWithMaximumSum.pdb

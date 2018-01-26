@@ -1,0 +1,11 @@
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\bin\Debug\netcoreapp2.0\01.SumMatrixElements.deps.json
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\bin\Debug\netcoreapp2.0\01.SumMatrixElements.runtimeconfig.json
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\bin\Debug\netcoreapp2.0\01.SumMatrixElements.runtimeconfig.dev.json
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\bin\Debug\netcoreapp2.0\01.SumMatrixElements.dll
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\bin\Debug\netcoreapp2.0\01.SumMatrixElements.pdb
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\obj\Debug\netcoreapp2.0\01.SumMatrixElements.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\obj\Debug\netcoreapp2.0\01.SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\obj\Debug\netcoreapp2.0\01.SumMatrixElements.AssemblyInfoInputs.cache
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\obj\Debug\netcoreapp2.0\01.SumMatrixElements.AssemblyInfo.cs
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\obj\Debug\netcoreapp2.0\01.SumMatrixElements.dll
+C:\Development\CSharp-Advance\MultiDimensionalAarrays\01.SumMatrixElements\obj\Debug\netcoreapp2.0\01.SumMatrixElements.pdb
