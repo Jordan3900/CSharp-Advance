@@ -1,0 +1,6 @@
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\03.DecimalToBinary\bin\Debug\03.DecimalToBinary.exe.config
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\03.DecimalToBinary\bin\Debug\03.DecimalToBinary.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\03.DecimalToBinary\bin\Debug\03.DecimalToBinary.pdb
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\03.DecimalToBinary\obj\Debug\03.DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\03.DecimalToBinary\obj\Debug\03.DecimalToBinary.exe
+C:\Users\pmyor\Documents\Visual Studio 2017\Projects\Lab-StackAndQueue\03.DecimalToBinary\obj\Debug\03.DecimalToBinary.pdb
