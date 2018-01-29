@@ -1,0 +1,11 @@
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\bin\Debug\netcoreapp2.0\05.RubikMatrix.deps.json
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\bin\Debug\netcoreapp2.0\05.RubikMatrix.runtimeconfig.json
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\bin\Debug\netcoreapp2.0\05.RubikMatrix.runtimeconfig.dev.json
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\bin\Debug\netcoreapp2.0\05.RubikMatrix.dll
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\bin\Debug\netcoreapp2.0\05.RubikMatrix.pdb
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\obj\Debug\netcoreapp2.0\05.RubikMatrix.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\obj\Debug\netcoreapp2.0\05.RubikMatrix.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\obj\Debug\netcoreapp2.0\05.RubikMatrix.AssemblyInfoInputs.cache
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\obj\Debug\netcoreapp2.0\05.RubikMatrix.AssemblyInfo.cs
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\obj\Debug\netcoreapp2.0\05.RubikMatrix.dll
+C:\Development\CSharp-Advance\Exercise-MultidimensionalArrays\05.RubikMatrix\obj\Debug\netcoreapp2.0\05.RubikMatrix.pdb
