@@ -1,0 +1,11 @@
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\bin\Debug\netcoreapp2.0\04.CopyBinaryFile.deps.json
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\bin\Debug\netcoreapp2.0\04.CopyBinaryFile.runtimeconfig.json
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\bin\Debug\netcoreapp2.0\04.CopyBinaryFile.runtimeconfig.dev.json
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\bin\Debug\netcoreapp2.0\04.CopyBinaryFile.dll
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\bin\Debug\netcoreapp2.0\04.CopyBinaryFile.pdb
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\obj\Debug\netcoreapp2.0\04.CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\obj\Debug\netcoreapp2.0\04.CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\obj\Debug\netcoreapp2.0\04.CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\obj\Debug\netcoreapp2.0\04.CopyBinaryFile.AssemblyInfo.cs
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\obj\Debug\netcoreapp2.0\04.CopyBinaryFile.dll
+C:\Development\CSharp-Advance\StreamsAndFiles\04.CopyBinaryFile\obj\Debug\netcoreapp2.0\04.CopyBinaryFile.pdb

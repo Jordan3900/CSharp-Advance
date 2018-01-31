@@ -1,0 +1,10 @@
+C:\Development\CSharp-Advance\StreamsAndFiles\03.CountWords\bin\Debug\netcoreapp2.0\03.CountWords.deps.json
+C:\Development\CSharp-Advance\StreamsAndFiles\03.CountWords\bin\Debug\netcoreapp2.0\03.CountWords.runtimeconfig.json
+C:\Development\CSharp-Advance\StreamsAndFiles\03.CountWords\bin\Debug\netcoreapp2.0\03.CountWords.runtimeconfig.dev.json
+C:\Development\CSharp-Advance\StreamsAndFiles\03.CountWords\bin\Debug\netcoreapp2.0\03.CountWords.dll
+C:\Development\CSharp-Advance\StreamsAndFiles\03.CountWords\bin\Debug\netcoreapp2.0\03.CountWords.pdb
+C:\Development\CSharp-Advance\StreamsAndFiles\03.CountWords\obj\Debug\netcoreapp2.0\03.CountWords.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\03.CountWords\obj\Debug\netcoreapp2.0\03.CountWords.AssemblyInfoInputs.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\03.CountWords\obj\Debug\netcoreapp2.0\03.CountWords.AssemblyInfo.cs
+C:\Development\CSharp-Advance\StreamsAndFiles\03.CountWords\obj\Debug\netcoreapp2.0\03.CountWords.dll
+C:\Development\CSharp-Advance\StreamsAndFiles\03.CountWords\obj\Debug\netcoreapp2.0\03.CountWords.pdb

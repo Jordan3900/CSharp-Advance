@@ -1,0 +1,11 @@
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\bin\Debug\netcoreapp2.0\01.OddLines.deps.json
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\bin\Debug\netcoreapp2.0\01.OddLines.runtimeconfig.json
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\bin\Debug\netcoreapp2.0\01.OddLines.runtimeconfig.dev.json
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\bin\Debug\netcoreapp2.0\01.OddLines.dll
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\bin\Debug\netcoreapp2.0\01.OddLines.pdb
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.AssemblyInfoInputs.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.AssemblyInfo.cs
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.dll
+C:\Development\CSharp-Advance\StreamsAndFiles\01.OddLines\obj\Debug\netcoreapp2.0\01.OddLines.pdb

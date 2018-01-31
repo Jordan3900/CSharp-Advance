@@ -1,0 +1,10 @@
+C:\Development\CSharp-Advance\StreamsAndFiles\02.LineNumber\bin\Debug\netcoreapp2.0\02.LineNumber.deps.json
+C:\Development\CSharp-Advance\StreamsAndFiles\02.LineNumber\bin\Debug\netcoreapp2.0\02.LineNumber.runtimeconfig.json
+C:\Development\CSharp-Advance\StreamsAndFiles\02.LineNumber\bin\Debug\netcoreapp2.0\02.LineNumber.runtimeconfig.dev.json
+C:\Development\CSharp-Advance\StreamsAndFiles\02.LineNumber\bin\Debug\netcoreapp2.0\02.LineNumber.dll
+C:\Development\CSharp-Advance\StreamsAndFiles\02.LineNumber\bin\Debug\netcoreapp2.0\02.LineNumber.pdb
+C:\Development\CSharp-Advance\StreamsAndFiles\02.LineNumber\obj\Debug\netcoreapp2.0\02.LineNumber.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\02.LineNumber\obj\Debug\netcoreapp2.0\02.LineNumber.AssemblyInfoInputs.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\02.LineNumber\obj\Debug\netcoreapp2.0\02.LineNumber.AssemblyInfo.cs
+C:\Development\CSharp-Advance\StreamsAndFiles\02.LineNumber\obj\Debug\netcoreapp2.0\02.LineNumber.dll
+C:\Development\CSharp-Advance\StreamsAndFiles\02.LineNumber\obj\Debug\netcoreapp2.0\02.LineNumber.pdb

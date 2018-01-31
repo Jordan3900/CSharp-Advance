@@ -1,0 +1,11 @@
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\bin\Debug\netcoreapp2.0\05.SlicingFile.deps.json
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\bin\Debug\netcoreapp2.0\05.SlicingFile.runtimeconfig.json
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\bin\Debug\netcoreapp2.0\05.SlicingFile.runtimeconfig.dev.json
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\bin\Debug\netcoreapp2.0\05.SlicingFile.dll
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\bin\Debug\netcoreapp2.0\05.SlicingFile.pdb
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\obj\Debug\netcoreapp2.0\05.SlicingFile.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\obj\Debug\netcoreapp2.0\05.SlicingFile.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\obj\Debug\netcoreapp2.0\05.SlicingFile.AssemblyInfoInputs.cache
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\obj\Debug\netcoreapp2.0\05.SlicingFile.AssemblyInfo.cs
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\obj\Debug\netcoreapp2.0\05.SlicingFile.dll
+C:\Development\CSharp-Advance\StreamsAndFiles\05.SlicingFile\obj\Debug\netcoreapp2.0\05.SlicingFile.pdb

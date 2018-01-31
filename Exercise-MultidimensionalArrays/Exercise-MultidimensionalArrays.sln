@@ -13,9 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.MaximalSum", "04.Maximal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.RubikMatrix", "05.RubikMatrix\05.RubikMatrix.csproj", "{CBD14143-17D7-44CD-99C7-277DAE0AEEA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TargetPractice", "06.TargetPractice\06.TargetPractice.csproj", "{539550DE-B72F-461A-8C97-789B4A5D7167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.TargetPractice", "06.TargetPractice\06.TargetPractice.csproj", "{539550DE-B72F-461A-8C97-789B4A5D7167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.LegoBlocks", "08.LegoBlocks\08.LegoBlocks.csproj", "{BEAD175F-3D8A-48D4-8D30-F3308095A567}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.LegoBlocks", "08.LegoBlocks\08.LegoBlocks.csproj", "{BEAD175F-3D8A-48D4-8D30-F3308095A567}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.RadioActiveMutantVampiresBunnies", "08.RadioActiveMutantVampiresBunnies\07.RadioActiveMutantVampiresBunnies.csproj", "{E3710683-9CF4-4DE7-AF64-71707A295790}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Crossfire", "09.Crossfire\09.Crossfire.csproj", "{4BA8F9E1-F343-4857-A125-51F75D92ECCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.HeiganDance", "10.HeiganDance\10.HeiganDance.csproj", "{5D9A9DB2-0EDD-4888-A1B8-873A01C26FD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{BEAD175F-3D8A-48D4-8D30-F3308095A567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEAD175F-3D8A-48D4-8D30-F3308095A567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEAD175F-3D8A-48D4-8D30-F3308095A567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3710683-9CF4-4DE7-AF64-71707A295790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3710683-9CF4-4DE7-AF64-71707A295790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3710683-9CF4-4DE7-AF64-71707A295790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3710683-9CF4-4DE7-AF64-71707A295790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA8F9E1-F343-4857-A125-51F75D92ECCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA8F9E1-F343-4857-A125-51F75D92ECCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA8F9E1-F343-4857-A125-51F75D92ECCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA8F9E1-F343-4857-A125-51F75D92ECCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9A9DB2-0EDD-4888-A1B8-873A01C26FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9A9DB2-0EDD-4888-A1B8-873A01C26FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9A9DB2-0EDD-4888-A1B8-873A01C26FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9A9DB2-0EDD-4888-A1B8-873A01C26FD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
